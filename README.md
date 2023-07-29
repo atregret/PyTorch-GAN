@@ -1,3 +1,4 @@
+# 代码很有条理，没有多余的文件；记录了各种GAN网络的pytorch实现
 <p align="center"><img src="assets/logo.png" width="480"\></p>
 
 **This repository has gone stale as I unfortunately do not have the time to maintain it anymore. If you would like to continue the development of it as a collaborator send me an email at eriklindernoren@gmail.com.**
